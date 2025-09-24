@@ -1,4 +1,4 @@
-#Lab Codes and Notes
+# Lab Codes and Notes
 Lab codes and notes will be posted on Blackboard
 
 # Naming Conventions
