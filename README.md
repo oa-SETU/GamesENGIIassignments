@@ -1,3 +1,6 @@
+#Lab Codes and Notes
+Lab codes and notes will be posted on Blackboard
+
 # Naming Conventions
 Please follow the folder structure and naming conventions as mentioned previously. 
 
