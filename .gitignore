@@ -112,6 +112,8 @@ StyleCopReport.xml
 *.pidb
 *.svclog
 *.scc
+*.vcxproj
+*.vcxproj.filters
 
 # Chutzpah Test files
 _Chutzpah*
@@ -416,3 +418,13 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+*.exe
+
+# VS Code directories
+.vscode/
+
+# VS Code Workspace
+*.code-workspace
+
+# Ignore build directory
+/build/
